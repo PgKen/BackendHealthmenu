@@ -1,0 +1,28 @@
+#mainContent {
+  border: 1px solid red;
+  color: red;
+  width: 800px;
+  height: 600px;
+  margin: 0 auto;
+  overflow: hidden; }
+  #mainContent .menufood {
+    border: 1px solid;
+    width: 200px;
+    margin: 486px 0 0 0;
+    transition: all 1s ease; }
+  #mainContent .menuTop {
+    margin: 0 0 0 0; }
+  #mainContent #menuHeal {
+    position: absolute;
+    margin: -479px 0 0 1px; }
+    #mainContent #menuHeal img {
+      width: 350px;
+      height: 180px; }
+  #mainContent #menuHeal2 {
+    position: absolute;
+    margin: -859px 0 0 290px; }
+    #mainContent #menuHeal2 img {
+      width: 564px;
+      height: 569px; }
+
+/*# sourceMappingURL=healStyle.css.map */

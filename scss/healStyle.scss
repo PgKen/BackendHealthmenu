@@ -1,0 +1,35 @@
+#mainContent {
+    border: 1px solid red;
+    color: red;
+    width: 800px;
+    height: 600px;
+    margin: 0 auto;
+    overflow: hidden;
+    .menufood {
+        border: 1px solid;
+        width: 200px;
+        margin: 486px 0 0 0;
+        transition: all 1s ease; // position: absolute;
+    }
+    .menuTop {
+        margin: 0 0 0 0;
+    }
+    #menuHeal {
+        position: absolute;
+        margin: -479px 0 0 1px;
+        img {
+
+            width: 350px;
+            height: 180px;
+        }
+    }
+    #menuHeal2 {
+        position: absolute;
+        margin: -859px 0 0 290px;
+        img {
+
+            width: 564px;
+            height: 569px;
+        }
+    }
+}

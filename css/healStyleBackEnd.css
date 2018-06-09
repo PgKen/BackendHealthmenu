@@ -1,0 +1,122 @@
+body {
+  width: 100%; }
+
+#mainContent {
+  width: 1000px;
+  margin: 0 auto;
+  border: 1px solid; }
+  #mainContent .nicEdit-main {
+    background-color: wheat;
+    color: black; }
+  #mainContent header#header {
+    text-align: center;
+    background-color: #4CAF50;
+    color: beige;
+    font-size: 18px;
+    padding: 4px 0px 4px 0; }
+  #mainContent nav {
+    /* border:  1px solid; */
+    width: 200px;
+    margin: 8px 0 0 0;
+    float: left; }
+  #mainContent ul#listGroup {
+    padding: 0;
+    margin: 0;
+    list-style: none; }
+  #mainContent li {
+    background-color: #009688;
+    color: wheat;
+    margin: 2px 0 0 0;
+    text-indent: 15px; }
+  #mainContent section {
+    width: 750px;
+    float: left;
+    margin: 10px 0 0 10px;
+    background-color: darkgreen;
+    color: wheat;
+    padding: 20px; }
+    #mainContent section .formAddMenu #modeType {
+      float: left;
+      clear: both; }
+      #mainContent section .formAddMenu #modeType select {
+        width: 200px;
+        height: 32px;
+        background-color: #cddc39;
+        font-size: 16px;
+        margin: 0 0 16px 0; }
+    #mainContent section .formAddMenu .labelText {
+      clear: both;
+      margin: 14px 0 4px 0px;
+      /* border: 1px solid; */
+      width: 150px;
+      text-align: center;
+      background-color: #72cc0a;
+      color: darkblue;
+      /* border-top-left-radius: 5px; */
+      border-top-right-radius: 1em; }
+    #mainContent section .formAddMenu label {
+      /* margin:  0 auto; */
+      margin: 0 0 0 10px;
+      float: left; }
+    #mainContent section .formAddMenu input[type="text"] {
+      width: 350px;
+      height: 25px;
+      background-color: #CDDC39;
+      color: darkblue;
+      /* text-indent: 22px; */
+      text-align: center;
+      font-size: 16px;
+      margin: 6px 0 0 45px; }
+    #mainContent section .formAddMenu textarea {
+      margin: 6px 0 0 30px;
+      width: 600px;
+      height: 200px;
+      font-size: 16px;
+      background-color: #cddc39; }
+    #mainContent section .formAddMenu #listHeal ul {
+      list-style: none;
+      margin: 0;
+      padding: 0; }
+      #mainContent section .formAddMenu #listHeal ul li {
+        background-color: #8bc34a;
+        color: black;
+        margin: 2px 0 0 0;
+        text-indent: 15px; }
+    #mainContent section .formAddMenu input[type="checkbox"] {
+      width: 50px;
+      padding: 50px; }
+    #mainContent section .formAddMenu input[type="checkbox"] {
+      height: 24px;
+      width: 24px; }
+    #mainContent section .formAddMenu button#submitAdd {
+      margin: 10px 0 0 45%;
+      padding: 10px;
+      font-size: 16px; }
+    #mainContent section .formAddMenu #editor {
+      background-color: #fff;
+      color: black; }
+      #mainContent section .formAddMenu #editor .addQl {
+        height: 200px; }
+      #mainContent section .formAddMenu #editor .ql-snow {
+        background-color: red; }
+    #mainContent section .formAddMenu #editor2 {
+      background-color: #fff;
+      color: black; }
+      #mainContent section .formAddMenu #editor2 .addQl {
+        height: 200px; }
+      #mainContent section .formAddMenu #editor2 .ql-snow {
+        background-color: red; }
+    #mainContent section .formAddMenu #editor3 {
+      background-color: #fff;
+      color: black; }
+      #mainContent section .formAddMenu #editor3 .addQl {
+        height: 200px; }
+      #mainContent section .formAddMenu #editor3 .ql-snow {
+        background-color: red; }
+  #mainContent .showFormAddMenu {
+    visibility: hidden; }
+
+.addCl {
+  background-color: #8BC34A; }
+
+/*# sourceMappingURL=healStyleBackEnd.css.map */

@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,YAAY;EACX,KAAK,EAAC,KAAK",
+"sources": ["healStyleBackEnd.scss"],
+"names": [],
+"file": "healStyleBackEnd.css"
+}
