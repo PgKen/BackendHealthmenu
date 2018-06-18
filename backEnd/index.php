@@ -220,10 +220,8 @@ if (isset($_GET)) {
 		console.log(dataEdit1)
 	}
 </script>
-<script type="text/javascript">
+<script>
 
-$(document).ready(function () {
-});
 </script>
 </html>
 
